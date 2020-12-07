@@ -1,6 +1,7 @@
 mapboxgl.accessToken = 'pk.eyJ1IjoiZG9uZ2hhbyIsImEiOiJjamdzZzBhZm8wZ3hkMnFxOWdndm4zcXFvIn0.lIbs9i7j31tbOfR_EpTC2g';
 
 const successLocation = (position) => {
+    console.log(position);
     setupMap([position.coords.longitude, position.coords.latitude]);
 }
 
