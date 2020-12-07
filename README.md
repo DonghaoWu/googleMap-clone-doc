@@ -18,7 +18,7 @@ Mapbox documentation:
 - If you have turned off location in your device but want to test the app in a fake location, do it like this:
 
   <p align="center">
-  <img src="./assets/gm-c-01.png" width=70%>
+  <img src="./assets/gm-c-01.png" width=90%>
   </p>
 
   -----------------------------------------------------------------
