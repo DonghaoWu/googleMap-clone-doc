@@ -29,5 +29,3 @@ const setupMap = (center) => {
 navigator.geolocation.getCurrentPosition(successLocation, errorLocation, {
     enableHighAccuracy: true
 });
-
-
