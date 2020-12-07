@@ -4,8 +4,7 @@ const successLocation = (position) => {
     setupMap([position.coords.longitude, position.coords.latitude]);
 }
 
-const errorLocation = (err) => {
-    console.log(`ERROR(${err.code}): ${err.message}`);
+const errorLocation = () => {
     setupMap([-122.419416, 37.774929]);
 }
 
