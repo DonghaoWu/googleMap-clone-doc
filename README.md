@@ -14,7 +14,7 @@
 - [Markers and controls](https://docs.mapbox.com/mapbox-gl-js/api/markers/)
 - [Display driving directions](https://docs.mapbox.com/mapbox-gl-js/example/mapbox-gl-directions/)
 
-- :gem:[Mapbox examples](https://docs.mapbox.com/mapbox-gl-js/example/)
+- [Mapbox examples](https://docs.mapbox.com/mapbox-gl-js/example/):gem:
 
 - If you have turned off location in your device but want to test the app in a fake location, do it like this:
 
