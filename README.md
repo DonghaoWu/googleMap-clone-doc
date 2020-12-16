@@ -23,7 +23,5 @@
 - [Mapbox examples](https://docs.mapbox.com/mapbox-gl-js/example/):gem:
 - [Mapbox Locate the user](https://docs.mapbox.com/mapbox-gl-js/example/locate-user/):gem:
 
-- If you have turned off location in your device and get a blank page like this, select a location to overwrite your current location then refresh the page:
-
 -----------------------------------------------------
 - Back to [Front end tools](https://github.com/DonghaoWu/Frontend-tools-demo).
