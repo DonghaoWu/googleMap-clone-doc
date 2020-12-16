@@ -1,7 +1,7 @@
 # googleMap-clone-doc
 
 ## Introduction:
-- Deploy github URL:[https://donghaowu.github.io/googleMap-clone-doc/](https://donghaowu.github.io/googleMap-clone-doc/)
+- Deploy github URL:[https://donghaowu.github.io/googleMap-clone-doc-githubio](https://donghaowu.github.io/googleMap-clone-doc-githubio)
 
 - This is a google map clone application from youtube.
 
