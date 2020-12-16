@@ -25,4 +25,5 @@
 
 - If you have turned off location in your device and get a blank page like this, select a location to overwrite your current location then refresh the page:
 
-  - Back to [Front end tools](https://github.com/DonghaoWu/Frontend-tools-demo).
+-----------------------------------------------------
+- Back to [Front end tools](https://github.com/DonghaoWu/Frontend-tools-demo).
